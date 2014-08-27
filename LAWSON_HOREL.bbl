@@ -1,0 +1,199 @@
+\begin{thebibliography}{36}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname doiprefix\endcsname\relax\def\doiprefix{doi:}\fi
+
+\bibitem[{Alcott and Steenburgh(2013)}]{Alcott2013}
+Alcott, T. and W.~J. Steenburgh, 2013: {Orographic influences on a Great Salt
+  Lake-effect snowstorm}. {\it Mon. Wea. Rev.\/}, {\bf 141}, 2432--2450.
+
+\bibitem[{Armi and Mayr(2011)}]{Armi2011}
+Armi, L. and G.~J. Mayr, 2011: {The descending stratified flow and internal
+  hydraulic jump in the lee of the Sierras}. {\it J. Appl. Meteor.
+  Climatol.\/}, {\bf 50}, 1995--2011.
+
+\bibitem[{Chrust et~al.(2013)Chrust, Whiteman, and Hoch}]{Chrust2013}
+Chrust, M.~F., C.~D. Whiteman, and S.~W. Hoch, 2013: {Observations of thermally
+  driven wind jets at the exit of Weber Canyon, Utah}. {\it J. Appl. Meteor.
+  Climatol.\/}, {\bf 52}, 1187--1200.
+
+\bibitem[{Dee et~al.(2011)Dee, Uppala, Simmons, Berrisford, Poli, Kobayashi,
+  Andrae, Balmaseda, Balsamo, Bauer, Bechtold, Beljaars, van~de Berg, Bidlot,
+  Bormann, Delsol, Dragani, Fuentes, Geer, Haimberger, Healy, Hersbach,
+  H\'{o}lm, Isaksen, K\aa~llberg, K\"{o}hler, Matricardi, McNally, Monge-Sanz,
+  Morcrette, Park, Peubey, de~Rosnay, Tavolato, Th\'{e}paut, and
+  Vitart}]{Dee2011}
+Dee, D.~P., S.~M. Uppala, A.~J. Simmons, P.~Berrisford, P.~Poli, S.~Kobayashi,
+  U.~Andrae, M.~A. Balmaseda, G.~Balsamo, P.~Bauer, P.~Bechtold, A.~C.~M.
+  Beljaars, L.~van~de Berg, J.~Bidlot, N.~Bormann, C.~Delsol, R.~Dragani,
+  M.~Fuentes, A.~J. Geer, L.~Haimberger, S.~B. Healy, H.~Hersbach, E.~V.
+  H\'{o}lm, L.~Isaksen, P.~K\aa~llberg, M.~K\"{o}hler, M.~Matricardi, A.~P.
+  McNally, B.~M. Monge-Sanz, J.-J. Morcrette, B.-K. Park, C.~Peubey,
+  P.~de~Rosnay, C.~Tavolato, J.-N. Th\'{e}paut, and F.~Vitart, 2011: {The
+  ERA-Interim reanalysis: configuration and performance of the data
+  assimilation system}. {\it Q. J. Roy. Meteor. Soc.\/}, {\bf 137}, 553--597.
+
+\bibitem[{Doyle and Durran(2002)}]{Doyle2002}
+Doyle, J. and D.~Durran, 2002: {The dynamics of mountain-wave-induced rotors}.
+  {\it J. Atmos. Sci.\/}, {\bf 59}, 186--201.
+
+\bibitem[{Doyle et~al.(2013)Doyle, Epifanio, Persson, Reinecke, and
+  Z\"{a}ngl}]{Doyle2013}
+Doyle, J., C.~Epifanio, A.~Persson, P.~Reinecke, and G.~Z\"{a}ngl, 2013:
+  {Mesoscale modeling over complex terrain: numerical and predictability
+  perspectives}. {\it Mountain Weather Research and Forecasting: Recent
+  Progress and Current Challenges\/}, F.~Chow, S.~{De Wekker}, and B.~Snyder,
+  eds., Springer, 531--590.
+
+\bibitem[{Durran and Gingrich(2014)}]{Durran2014-qf}
+Durran, D.~R. and M.~Gingrich, 2014: Atmospheric predictability: Why
+  butterflies are not of practical importance. {\it J. Atmos. Sci.\/}, in
+  press.
+
+\bibitem[{Grubi\v{s}i\'{c} and Billings(2008)}]{Grubisic2008}
+Grubi\v{s}i\'{c}, V. and B.~J. Billings, 2008: {Climatology of the Sierra
+  Nevada mountain-wave events}. {\it Mon. Wea. Rev.\/}, {\bf 136}, 757--768.
+
+\bibitem[{Hamill et~al.(2013)Hamill, Bates, Whitaker, Murray, Fiorino,
+  Galarneau, Zhu, and Lapenta}]{Hamill2013-tt}
+Hamill, T.~M., G.~T. Bates, J.~S. Whitaker, D.~R. Murray, M.~Fiorino, T.~J.
+  Galarneau, Y.~Zhu, and W.~Lapenta, 2013: {NOAA's} second-generation global
+  medium-range ensemble reforecast data set. {\it Bull. Am. Meteorol. Soc.\/},
+  {\bf 94}, 1553--1565.
+
+\bibitem[{Hertenstein(2009)}]{Hertenstein2009}
+Hertenstein, R.~F., 2009: {The influence of inversions on rotors}. {\it Mon.
+  Wea. Rev.\/}, {\bf 137}, 433--446.
+
+\bibitem[{Holland(2002)}]{Holland2002}
+Holland, L., 2002: {\it {Downslope windstorms along the Wasatch Front}\/}. M.S.
+  Thesis, University of Utah, 86 pp.
+
+\bibitem[{Horel et~al.(2002{\natexlab{a}})Horel, Potter, Dunn, Steenburgh,
+  Eubank, Splitt, and Onton}]{Horel2002a}
+Horel, J., T.~Potter, L.~Dunn, W.~Steenburgh, M.~Eubank, M.~Splitt, and
+  D.~Onton, 2002{\natexlab{a}}: {Weather support for the 2002 Winter Olympic
+  and Paralympic Games}. {\it Bull. Amer. Meteor. Soc.\/}, {\bf 83}, 227--240.
+
+\bibitem[{Horel et~al.(2002{\natexlab{b}})Horel, Splitt, Dunn, Pechmann, White,
+  Ciliberi, Lazarus, Slemmer, Zaff, and Burks}]{Horel2002}
+Horel, J., M.~Splitt, L.~Dunn, J.~Pechmann, B.~White, C.~Ciliberi, S.~Lazarus,
+  J.~Slemmer, D.~Zaff, and J.~Burks, 2002{\natexlab{b}}: {Mesowest: cooperative
+  mesonets in the western United States}. {\it Bull. Amer. Meteor. Soc.\/},
+  {\bf 83}, 211--225.
+
+\bibitem[{Jiang and Doyle(2008)}]{Jiang2008}
+Jiang, Q. and J.~D. Doyle, 2008: {Diurnal Variation of Downslope Winds in Owens
+  Valley during the Sierra Rotor Experiment}. {\it Mon. Wea. Rev.\/}, {\bf
+  136}, 3760--3780.
+
+\bibitem[{Jones et~al.(2002)Jones, Colton, McAnelly, and Meyers}]{Jones2002-la}
+Jones, C., J.~Colton, R.~McAnelly, and M.~Meyers, 2002: An examination of a
+  severe downslope windstorm west of the colorado park range. {\it Natl.
+  Weather Dig.\/}, {\bf 26}, 73--81.
+
+\bibitem[{K{\"{u}}hnlein et~al.(2013)K{\"{u}}hnlein, D{\"{o}}rnbrack, and
+  Weissmann}]{Kuhnlein2013-gt}
+K{\"{u}}hnlein, C., A.~D{\"{o}}rnbrack, and M.~Weissmann, 2013:
+  {High-Resolution} doppler lidar observations of transient downslope flows and
+  rotors. {\it Mon. Wea. Rev.\/}, {\bf 141}, 3257--3272.
+
+\bibitem[{Lareau et~al.(2013)Lareau, Crosman, Whiteman, Horel, Hoch, Brown, and
+  Horst}]{Lareau2013}
+Lareau, N.~P., E.~Crosman, C.~D. Whiteman, J.~Horel, S.~W. Hoch, W.~O.~J.
+  Brown, and T.~W. Horst, 2013: {The Persistent Cold-Air Pool Study}. {\it
+  Bull. Amer. Meteor. Soc.\/}, {\bf 94}, 51--63.
+
+\bibitem[{Lawson(2013)}]{Lawson2013a}
+Lawson, J., 2013: {\it {Analysis and predictability of the 1 December Wasatch
+  downslope windstorm}\/}. M.S. Thesis, University of Utah, 84 pp.
+
+\bibitem[{Lilly and Zipser(1972)}]{Lilly1972-ak}
+Lilly, D.~K. and E.~J. Zipser, 1972: The front range windstorm of 11 january
+  1972: a meteorological narrative. {\it Weatherwise\/}, {\bf 25}, 56--63.
+
+\bibitem[{Markowski and Richardson(2010)}]{Markowski2010}
+Markowski, P. and Y.~Richardson, 2010: {\it {Mesoscale Meteorology in
+  Mid-latitudes}\/}. Wiley-Blackwell, 407 pp.
+
+\bibitem[{Mass and Albright(1985)}]{Mass1985-at}
+Mass, C. and M.~Albright, 1985: A severe windstorm in the lee of the cascade
+  mountains of washington state. {\it Mon. Weather Rev.\/}, {\bf 113},
+  1261--1281.
+
+\bibitem[{Miller and Durran(1991)}]{Miller1991-tf}
+Miller, P. and D.~Durran, 1991: On the sensitivity of downslope windstorms to
+  the asymmetry of the mountain profile. {\it J. Atmos. Sci.\/}, {\bf 48},
+  1457--1473.
+
+\bibitem[{O'Donoghue(2012)}]{O'Donoghue2012}
+O'Donoghue, A.~J., 2012: {Remembering the winds of 2011: Utah's `most
+  devastating wind event' in decades happened 1 year ago}. {\it Deseret
+  News\/}, Salt Lake City.
+
+\bibitem[{Palmer(1993)}]{Palmer1993}
+Palmer, T., 1993: {Extended-range atmospheric prediction and the Lorenz model}.
+  {\it Bull. Amer. Meteor. Soc.\/}, {\bf 74}, 49--65.
+
+\bibitem[{Peltier and Clark(1979)}]{Peltier1979}
+Peltier, W. and T.~Clark, 1979: {The evolution and stability of
+  finite-amplitude mountain Waves. Part II: surface wave drag and severe
+  downslope windstorms}. {\it J. Atmos. Sci.\/}, {\bf 36}, 1498--1529.
+
+\bibitem[{Reinecke and Durran(2009)}]{Reinecke2009}
+Reinecke, P. and D.~Durran, 2009: {Initial-condition sensitivities and the
+  predictability of downslope winds}. {\it J. Atmos. Sci.\/}, {\bf 66},
+  3401--3418.
+
+\bibitem[{Richner and H\"{a}chler(2013)}]{Richner2013}
+Richner, H. and P.~H\"{a}chler, 2013: {Understanding and forecasting Alpine
+  Foehn}. {\it Mountain Weather Research and Forecasting: Recent Progress and
+  Current Challenges\/}, F.~Chow, S.~{De Wekker}, and B.~Snyder, eds.,
+  Springer, 219--260.
+
+\bibitem[{Smith(1985)}]{Smith1985}
+Smith, R., 1985: {On severe downslope winds}. {\it J. Atmos. Sci.\/}, {\bf 42},
+  2597--2603.
+
+\bibitem[{Strong and Magnusdottir(2008)}]{Strong2008}
+Strong, C. and G.~Magnusdottir, 2008: {Tropospheric Rossby wave breaking and
+  the NAO/NAM}. {\it J. Atmos. Sci.\/}, {\bf 65}, 2861--2876.
+
+\bibitem[{Thorncroft et~al.(1993)Thorncroft, Hoskins, and
+  McIntyre}]{Thorncroft1993}
+Thorncroft, C.~D., B.~Hoskins, and M.~McIntyre, 1993: {Two paradigms of
+  baroclinic-wave life-cycle behaviour}. {\it Q. J. Roy. Meteor. Soc.\/}, {\bf
+  119}, 17--55.
+
+\bibitem[{Vosper(2004)}]{Vosper2004}
+Vosper, S., 2004: {Inversion effects on mountain lee waves}. {\it Q. J. Roy.
+  Meteor. Soc.\/}, {\bf 130}, 1723--1748.
+
+\bibitem[{Wang and Lin(1999)}]{Wang1999-va}
+Wang, T.-A. and Y.-L. Lin, 1999: Wave ducting in a stratified shear flow over a
+  {Two-Dimensional} mountain. part {II}: Implications for the development of
+  {High-Drag} states for severe downslope windstorms. {\it J. Atmos. Sci.\/},
+  {\bf 56}, 437--452.
+
+\bibitem[{Welch and Rice(2011)}]{Welch2011}
+Welch, W. and D.~Rice, 2011: {100-mph Santa Ana winds whip Southwest}. {\it USA
+  Today\/}.
+
+\bibitem[{West and Steenburgh(2011)}]{West2011}
+West, G.~L. and W.~Steenburgh, 2011: {Influences of the Sierra Nevada on
+  Intermountain cold-front evolution}. {\it Mon. Wea. Rev.\/}, {\bf 139},
+  3184--3207.
+
+\bibitem[{Whiteman(2000)}]{Whiteman2000}
+Whiteman, C.~D., 2000: {\it {Mountain Meteorology: Fundamentals and
+  Applications}\/}. Oxford University Press, USA, New York, 355 pp.
+
+\bibitem[{Zhong et~al.(2008)Zhong, Li, David~Whiteman, Bian, and
+  Yao}]{Zhong2008-rl}
+Zhong, S., J.~Li, C.~David~Whiteman, X.~Bian, and W.~Yao, 2008: Climatology of
+  high wind events in the owens valley, california. {\it Mon. Weather Rev.\/},
+  {\bf 136}, 3536--3552.
+
+\end{thebibliography}

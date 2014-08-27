@@ -1,0 +1,52 @@
+\begin{table*}
+[t]
+\caption{Parameterization schemes used in numerical modeling configuration.}
+\label{tab:param}
+\begin{center}
+\begin{tabular}{cc}
+\hline \hline
+{\textbf{Parameterization}} & {\textbf{Scheme}} \\ \hline
+{\textbf{Microphysics}} & WRF Single-Moment 3-class Scheme  \\
+{\textbf{Longwave Radiation}} & RRTM Scheme  \\
+{\textbf{Shortwave Radiation}} & Dudhia Scheme \\
+{\textbf{Surface Layer}} & MM5 Similarity \\
+{\textbf{Land Surface}} & Noah Land Surface Model (with snow effect) \\
+{\textbf{Urban Surface}} & Switched off  \\
+{\textbf{Planetary Boundary Layer}} & Yonsei University Scheme  \\
+{\textbf{Cumulus Parameterization}} & Kain-Fritsch Scheme (12-km, 4-km domains only)  \\
+{\textbf{Latent/Sensible Heat Flux}} & Allowed \\
+{\textbf{Vertical Velocity Damping}} & Switched off  \\
+{\textbf{6th Order Horizontal Diffusion}} & Simple (12-km domain only) \\ \hline
+\end{tabular}
+\end{center}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}
+[t]
+\caption{Downslope windstorm events at KHIF as defined by this study.}
+\label{tab:dsws}
+\begin{center}
+\begin{tabular}{cccc}
+\hline \hline
+\textbf{Date} & \textbf{Time of} & \textbf{Max.~wind speed} & \textbf{Max.~wind gust} \\
+& \textbf{max.~wind, UTC} & \textbf{\mps{} (mph)} & \textbf{\mps{} (mph)} \\ \hline
+{9 October 1979} & 1500 & 15 (34) & 21 (48) \\
+{19 January 1980} & 1200 & 15 (34) & 22 (49) \\
+{4 April 1983} & 1700 & 21 (46) & 31 (70) \\
+{30 March 1984} & 1200 & 15 (34) & 18 (41) \\
+{16 January 1987} & 1740 & 15 (34) & 20 (44) \\
+{24 December 1987} & 0700 & 15 (34) & 21 (46) \\
+{15 December 1988} & 1200 & 16 (36) & 23 (51) \\
+{30 January 1993} & 1700 & 18 (41) & 21 (48) \\
+{12 January 1997} & 1100 & 17 (38) & 23 (52) \\
+{24 February 1997} & 1700 & 18 (40) & 23 (51) \\
+{2 April 1997} & 1600 & 15 (34) & 24 (53) \\
+{23 April 1999} & 1755 & 18 (40) & 24 (53) \\
+{1 December 2011} & 1655 & 20 (45) & 30 (67) \\
+\hline
+\end{tabular}
+\end{center}
+\end{table*}
+\efloatseparator
+ 

@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.6)
+The top-level auxiliary file: /home/jrlawson/gitprojects/LawsonHorel_WAF1/LAWSON_HOREL.aux
+The style file: ametsoc.bst
+Database file #1: library.bib
+Database file #2: paperpile.bib
+Warning--empty publisher in O'Donoghue2012
+Warning--empty pages in O'Donoghue2012
+Warning--empty publisher in Welch2011
+Warning--empty pages in Welch2011
+You've used 36 entries,
+            2749 wiz_defined-function locations,
+            1241 strings with 15068 characters,
+and the built_in function-call counts, 20731 in all, are:
+= -- 1846
+> -- 1347
+< -- 25
++ -- 448
+- -- 405
+* -- 2001
+:= -- 3558
+add.period$ -- 72
+call.type$ -- 36
+change.case$ -- 309
+chr.to.int$ -- 35
+cite$ -- 40
+duplicate$ -- 828
+empty$ -- 1409
+format.name$ -- 533
+if$ -- 4112
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 36
+newline$ -- 116
+num.names$ -- 148
+pop$ -- 333
+preamble$ -- 1
+purify$ -- 277
+quote$ -- 0
+skip$ -- 531
+stack$ -- 0
+substring$ -- 1228
+swap$ -- 156
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 318
+warning$ -- 4
+while$ -- 171
+width$ -- 0
+write$ -- 405
+(There were 4 warnings)

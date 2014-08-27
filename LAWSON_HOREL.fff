@@ -1,0 +1,170 @@
+\begin{figure*}
+[t]
+\centering
+\noindent\includegraphics[width=0.77\textwidth]{map2}\\
+\caption{Terrain elevation and locations in northern Utah and western Wyoming (shading). (a) Locations (Salt Lake International Airport, KSLC; and Hill Air Force Base, KHIF), mountain ranges, and cross-section paths mentioned in the text are shown.  The shaded rectangular box along the Wasatch Front approximately delineates the damage swatch on 1 December 2011. The Wasatch Front is the low-lying region paralleling the west slopes of the Wasatch Mountains. (b) Zoomed-in view with locations discussed in the text.}
+\label{fig:wasatchmap}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\noindent\includegraphics[width=0.7\textwidth]{cen_cenwws_small_crop_BW}\\
+\caption{Anemometers installed in Centerville, UT, by Union Pacific Railroad (\MW{} identifier: CENWWS; foreground) and Utah Department of Transportation (\MW{} identifier: CEN; background), at the location of strongest observed winds during the 1~December 2011 windstorm.}
+\label{fig:cenwws}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth,angle=0]{domains.pdf}\\
+\caption{Domain areas for the 12-, 4-, and 1.3-km domains in the Weather Research and Forecasting model. Terrain is from the 12-km domain at 10-min resolution.}
+\label{fig:domains}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth]{climoplot.pdf}\\
+\caption{Sustained wind (shaded bars) associated with downslope windstorms as a function of winter season at KHIF according to the scale on left. Filled circles indicate the maximum gust associated with each windstorm. Percent of season with strong 700\,hPa winds from easterly direction in ERA-Interim Reanalysis data marked by black line according to scale on the right. Two (three) events occur in the winter of 1979/80 (1996/97) and hence overlap on the chart.}
+\label{fig:climoplot}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth]{composite_700hPa_Z.pdf}\\
+\caption{Evolution of ERA-Interim 700-hPa geopotential height (contoured at 30-m intervals), composited over 13 downslope windstorm events at (a) 0000 UTC, (b) 0600 UTC, (c) 1200 UTC, and (d) 1800 UTC}
+\label{fig:700comp}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth]{dec1_Z_wind_ERA.pdf}\\
+\caption{Evolution of 700-hPa geopotential height (contoured at 30-m intervals) and wind speed (shading according to scale) on 1 December 2011, taken from the ERA-Interim dataset, at (a) 0000 UTC, (b) 0600 UTC, (c) 1200 UTC, and (d) 1800 UTC..}
+\label{fig:geopot4panel}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth]{mobmes_09.pdf}\\
+\caption{Mobile wind observations from 0915--1015\,UTC. Vector arrows are relative to scale in top-left. Distance is according to the scale in bottom-left. Filled contours indicate terrain, taken from innermost WRF domain, with scale at bottom. Observation stations mentioned in text are labelled.}
+\label{fig:mobmes}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth]{obs_comp.pdf}\\
+\caption{Surface wind observations at (a) Hill Air Force Base (KHIF), (b) Glover's Lane (UFD04), and (c) Ogden Peak (OGP) on 1 December 2011. Wind speed, wind gust, and wind direction shown by solid lines, filled circles, and crosses, respectively. All available KHIF observations are shown; for clarity, UFD04 and OGP data are sampled at 30-min intervals from the data available at higher reporting intervals.}
+\label{fig:ob_ts}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth]{KSLC_SkewT.pdf}
+\caption{Skew-T log-P profiles at 1200\,UTC 1 December 2011, from observed rawinsonde launch at KSLC (black lines) and from the WRF Control simulation at the nearest grid point (blue lines). Temperature, dew-point temperature, and wind denoted by solid lines, dashed lines, and barbs (full barb 5 \mps), respectively. For clarity, wind barbs from only selected model levels are shown.}
+\label{fig:kslcWRF}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=27pc,angle=0]{sound_comp}
+\caption{Vertical profiles of observed rawinsonde data near Morgan, UT, and Centerville, UT (near CENWWS). (a) Potential temperature (solid line), relative humidity (dashed line), wind speed (crosses), and wind direction (open circles) at Morgan, UT, at 1800\,UTC 1 December 2011, as a function of height. (b) As in (a) but for the 1200\,UTC Centerville, UT launch.}
+\label{fig:sound}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=33pc,angle=0]{vertical_vel_crop}
+\caption{Comparison of rawinsonde ascent rates (\mps) at Morgan, UT (1800\,UTC; crosses) and Centerville (1200\,UTC; open circles).}
+\label{fig:ascent}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth]{WRF700.pdf}
+\caption{WRF Control simulation 700-hPa geopotential height fields (contoured at 30-m interval), at (a) 0000 UTC, (b) 0600 UTC, (c) 1200 UTC, and (d) 1800 UTC, all 1 December 2011. Noisy contours result from the 700-hPa surface intersecting the model terrain.}
+\label{fig:NAM-C_700}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\centering
+\includegraphics[width=0.9\textwidth]{verification.pdf}
+\caption{Comparison of observed surface wind speeds (colored circles) versus Control-simulation surface wind speeds (shading), both according to scale at bottom. The wind measurements are taken from the observation time closest to (a) 1200\,UTC and (b) 2100\,UTC, within 30\,min either side of the respective times, for each available station. WRF innermost-domain terrain contoured every 400\,m for reference; Antelope Island marked with ``AI".}
+\label{fig:verif}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[p]
+\centering
+\includegraphics[width=0.9\textwidth]{GloversLane_ts}
+\caption{Observed and simulated surface winds at Glover's Lane (UFD04), UT on 1 December 2011. Observed wind speeds and wind directions from UFD04 are denoted by black solid lines and filled circles, respectively. Simulated surface wind speeds and directions from the Control (No-Uinta) simulations are shown by the green (red) solid lines and filled circles, respectively. Wind direction data from all three sources have been subsampled to every 20 minutes for clarity.}
+\label{fig:glove_ts}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+   \centering
+\includegraphics[width=0.9\textwidth]{yes_xs_westeast_parawind.pdf}
+   \caption{Perpendicular-to-Wasatch cross-section from innermost WRF domain (A--B in Fig.~\ref{fig:wasatchmap}) at (a) 1200\,UTC and (b) 2100\,UTC, 1 December 2011. Shading denotes plane-parallel wind component according to the scale (e.g., blue indicates flow from right to left), while potential temperature is contoured at an interval of 2\,K.}
+   \label{fig:ppxswu}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+   \centering
+\includegraphics[width=0.9\textwidth]{yes_xs_northsouth_perpwind.pdf}
+   \caption{Roughly north--south cross-section from innermost WRF domain (C--D in Fig.~\ref{fig:wasatchmap}) through west-central Wyoming (left) to the southern slopes of the Uintas (right) at (a) 1200\,UTC and (b) 2100\,UTC, 1 December 2011. Shading denotes wind component in and out of the page (e.g., blue indicates predominantly easterly flow out of the page) according to the scale; potential temperature is contoured at an interval of 2\,K.}
+   \label{fig:normxswu}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[t]
+\includegraphics[width=0.9\textwidth]{eastdiff.pdf}
+   \caption{Zonal wind difference (No-Uinta minus Control), shaded according to the scale at the bottom, at (a) 1200\,UTC and (b) 2100\,UTC, 1 December 2011. Black (red) contours at 500-m intervals denote the elevation of the terrain used in both the Control and No-Uinta (Control only) simulations. Blue (red) indicates an increase (decrease) in easterly wind in this location as a result of removing the Uinta mountains.}
+   \label{fig:eastdiff}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[p]
+   \centering
+\includegraphics[width=0.9\textwidth]{no_xs_westeast_parawind.pdf}
+   \caption{As in Fig.~\ref{fig:ppxswu}, but from the no-Uinta WRF simulation.}
+   \label{fig:ppxsnu}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+[p]
+   \centering
+\includegraphics[width=0.9\textwidth]{no_xs_northsouth_perpwind.pdf}
+   \caption{As in Fig.~\ref{fig:normxswu}, but from the no-Uinta WRF simulation.}
+   \label{fig:normxsnu}
+\end{figure*}
+\efloatseparator
+ 
