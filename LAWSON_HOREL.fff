@@ -91,7 +91,7 @@
 \begin{figure*}
 [t]
 \centering
-\includegraphics[width=33pc,angle=0]{vertical_vel_crop}
+\includegraphics[width=21pc,angle=0]{vertical_vel_crop}
 \caption{Comparison of rawinsonde ascent rates (\mps) at Morgan, UT (1800\,UTC; crosses) and Centerville (1200\,UTC; open circles).}
 \label{fig:ascent}
 \end{figure*}
