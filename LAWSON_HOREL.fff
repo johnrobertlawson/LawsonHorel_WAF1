@@ -2,7 +2,7 @@
 [t]
 \centering
 \noindent\includegraphics[width=0.77\textwidth]{map2}\\
-\caption{Terrain elevation and locations in northern Utah and western Wyoming (shading). (a) Locations (Salt Lake International Airport, KSLC; and Hill Air Force Base, KHIF), mountain ranges, and cross-section paths mentioned in the text are shown.  The shaded rectangular box along the Wasatch Front approximately delineates the damage swatch on 1 December 2011. The Wasatch Front is the low-lying region paralleling the west slopes of the Wasatch Mountains. (b) Zoomed-in view with locations discussed in the text.}
+\caption{Terrain elevation and locations in northern Utah and western Wyoming (shading). (a) Locations (Salt Lake International Airport, KSLC; and Hill Air Force Base, KHIF), mountain ranges, and cross-section paths mentioned in the text are shown.  The shaded rectangular box along the Wasatch Front approximately delineates the damage swath on 1 December 2011. The Wasatch Front is the low-lying region paralleling the west slopes of the Wasatch Mountains. (b) Zoomed-in view with locations discussed in the text.}
 \label{fig:wasatchmap}
 \end{figure*}
 \efloatseparator
@@ -11,7 +11,7 @@
 [t]
 \centering
 \noindent\includegraphics[width=0.7\textwidth]{cen_cenwws_small_crop_BW}\\
-\caption{Anemometers installed in Centerville, UT, by Union Pacific Railroad (\MW{} identifier: CENWWS; foreground) and Utah Department of Transportation (\MW{} identifier: CEN; background), at the location of strongest observed winds during the 1~December 2011 windstorm.}
+\caption{Anemometers installed in Centerville, UT, by Union Pacific Railroad (\MW{} identifier: UP028; foreground) and Utah Department of Transportation (CEN; background), at the location of strongest observed winds during the 1~December~2011 windstorm.}
 \label{fig:cenwws}
 \end{figure*}
 \efloatseparator
@@ -29,7 +29,7 @@
 [t]
 \centering
 \includegraphics[width=0.9\textwidth]{climoplot.pdf}\\
-\caption{Sustained wind (shaded bars) associated with downslope windstorms as a function of winter season at KHIF according to the scale on left. Filled circles indicate the maximum gust associated with each windstorm. Percent of season with strong 700\,hPa winds from easterly direction in ERA-Interim Reanalysis data marked by black line according to scale on the right. Two (three) events occur in the winter of 1979/80 (1996/97) and hence overlap on the chart.}
+\caption{Sustained wind (shaded bars) associated with downslope windstorms as a function of winter season at KHIF according to the scale on left. Filled circles indicate the maximum gust associated with each windstorm. Percent of season with strong (10\,\mps{}) 700-hPa winds from easterly direction in ERA-Interim Reanalysis data marked by black line according to scale on the right. Two (three) events occur in the winter of 1979/80 (1996/97) and hence overlap on the chart.}
 \label{fig:climoplot}
 \end{figure*}
 \efloatseparator
@@ -38,7 +38,7 @@
 [t]
 \centering
 \includegraphics[width=0.9\textwidth]{composite_700hPa_Z.pdf}\\
-\caption{Evolution of ERA-Interim 700-hPa geopotential height (contoured at 30-m intervals), composited over 13 downslope windstorm events at (a) 0000 UTC, (b) 0600 UTC, (c) 1200 UTC, and (d) 1800 UTC}
+\caption{Evolution of ERA-Interim 700-hPa geopotential height (contoured at 30-m intervals), composited over 13 downslope windstorm events at (a) 0000 UTC, (b) 0600 UTC, (c) 1200 UTC, and (d) 1800 UTC.}
 \label{fig:700comp}
 \end{figure*}
 \efloatseparator
@@ -47,7 +47,7 @@
 [t]
 \centering
 \includegraphics[width=0.9\textwidth]{dec1_Z_wind_ERA.pdf}\\
-\caption{Evolution of 700-hPa geopotential height (contoured at 30-m intervals) and wind speed (shading according to scale) on 1 December 2011, taken from the ERA-Interim dataset, at (a) 0000 UTC, (b) 0600 UTC, (c) 1200 UTC, and (d) 1800 UTC..}
+\caption{Evolution of 700-hPa geopotential height (contoured at 30-m intervals) and wind speed (shading according to scale) on 1 December 2011, taken from the ERA-Interim dataset, at (a) 0000 UTC, (b) 0600 UTC, (c) 1200 UTC, and (d) 1800 UTC.}
 \label{fig:geopot4panel}
 \end{figure*}
 \efloatseparator
@@ -56,7 +56,7 @@
 [t]
 \centering
 \includegraphics[width=0.9\textwidth]{mobmes_09.pdf}\\
-\caption{Mobile wind observations from 0915--1015\,UTC. Vector arrows are relative to scale in top-left. Distance is according to the scale in bottom-left. Filled contours indicate terrain, taken from innermost WRF domain, with scale at bottom. Observation stations mentioned in text are labelled.}
+\caption{Mobile wind observations from 0915--1015\,UTC. Vector arrows are relative to scale in top-left. Distance is according to the scale in bottom-left. Filled contours indicate terrain, taken from innermost WRF domain, with scale at bottom. Observation stations mentioned in text are labeled.}
 \label{fig:mobmes}
 \end{figure*}
 \efloatseparator
@@ -65,7 +65,7 @@
 [t]
 \centering
 \includegraphics[width=0.9\textwidth]{obs_comp.pdf}\\
-\caption{Surface wind observations at (a) Hill Air Force Base (KHIF), (b) Glover's Lane (UFD04), and (c) Ogden Peak (OGP) on 1 December 2011. Wind speed, wind gust, and wind direction shown by solid lines, filled circles, and crosses, respectively. All available KHIF observations are shown; for clarity, UFD04 and OGP data are sampled at 30-min intervals from the data available at higher reporting intervals.}
+\caption{Surface wind observations at (a) KHIF, (b) UFD04, and (c) OGP on 1 December 2011. Wind speed, wind gust, and wind direction shown by solid lines, filled circles, and crosses, respectively. All available KHIF observations are shown; for clarity, UFD04 and OGP data are sampled at 30-min intervals from the data available at higher reporting intervals.}
 \label{fig:ob_ts}
 \end{figure*}
 \efloatseparator
@@ -83,7 +83,7 @@
 [t]
 \centering
 \includegraphics[width=27pc,angle=0]{sound_comp}
-\caption{Vertical profiles of observed rawinsonde data near Morgan, UT, and Centerville, UT (near CENWWS). (a) Potential temperature (solid line), relative humidity (dashed line), wind speed (crosses), and wind direction (open circles) at Morgan, UT, at 1800\,UTC 1 December 2011, as a function of height. (b) As in (a) but for the 1200\,UTC Centerville, UT launch.}
+\caption{Vertical profiles of observed rawinsonde data near Morgan, UT, and Centerville, UT (near UP028). (a) Potential temperature (solid line), relative humidity (dashed line), wind speed (crosses), and wind direction (open circles) at Morgan, UT, at 1800\,UTC 1 December 2011, as a function of height. (b) As in (a) but for the 1200\,UTC Centerville, UT launch.}
 \label{fig:sound}
 \end{figure*}
 \efloatseparator
@@ -119,7 +119,7 @@
 [p]
 \centering
 \includegraphics[width=0.9\textwidth]{GloversLane_ts}
-\caption{Observed and simulated surface winds at Glover's Lane (UFD04), UT on 1 December 2011. Observed wind speeds and wind directions from UFD04 are denoted by black solid lines and filled circles, respectively. Simulated surface wind speeds and directions from the Control (No-Uinta) simulations are shown by the green (red) solid lines and filled circles, respectively. Wind direction data from all three sources have been subsampled to every 20 minutes for clarity.}
+\caption{Observed and simulated surface winds at Farmington (UFD04), UT on 1 December 2011. Observed wind speeds and wind directions from UFD04 are denoted by black solid lines and filled circles, respectively. Simulated surface wind speeds and directions from the Control (No-Uinta) simulations are shown by the green (red) solid lines and filled circles, respectively. Wind direction data from all three sources have been subsampled to every 20 minutes for clarity.}
 \label{fig:glove_ts}
 \end{figure*}
 \efloatseparator

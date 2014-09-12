@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.8.22)  27 AUG 2014 18:45
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.8.22)  5 SEP 2014 09:01
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode \input{LAWSON_HOREL.tex}
@@ -383,7 +383,7 @@ Overfull \hbox (2.054pt too wide) in paragraph at lines 197--198
 m/n/12 ^^X$\OT1/cmr/m/n/12 5$[]$ coun-ter-clock-wise (Fig. 16[]). At 1200UTC,
  []
 
-[18] [19]
+[18] [19] [20]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 214.
 
  (/usr/share/texmf/tex/latex/base/omscmr.fd
@@ -391,7 +391,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 214.
- [20] [21] [22] [23]
+ [21] [22] [23]
 [24] (./LAWSON_HOREL.bbl [25
 
 
@@ -415,6 +415,12 @@ AED endfloat: Processing end Figures and Tables [28] (./LAWSON_HOREL.lot)
 Overfull \hbox (9.05104pt too wide) in paragraph at lines 2--2
  [][] []\OT1/cmr/m/n/12 Anemometers in-stalled in Cen-ter-ville, UT, by Union P
 a-cific Rail-road ([] 
+ []
+
+
+Overfull \hbox (0.38632pt too wide) in paragraph at lines 2--2
+ \OT1/cmr/m/n/12 iden-ti-fier: UP028; fore-ground) and Utah De-part-ment of Tra
+ns-porta-tion (CEN; 
  []
 
 [32
@@ -468,79 +474,79 @@ File: mobmes_09.pdf Graphic file (type pdf)
 
 pdfTeX warning: pdflatex (file ./mobmes_09.pdf): PDF inclusion: Page Group dete
 cted which pdfTeX can't handle. Ignoring it.
->] <obs_comp.pdf, id=3862, 422.4904pt x 494.7604pt>
+>] <obs_comp.pdf, id=3860, 422.4904pt x 494.7604pt>
 File: obs_comp.pdf Graphic file (type pdf)
  <use obs_comp.pdf> [43 <./obs_comp.pdf
 
 pdfTeX warning: pdflatex (file ./obs_comp.pdf): PDF inclusion: Page Group detec
 ted which pdfTeX can't handle. Ignoring it.
->] <KSLC_SkewT.pdf, id=3912, 422.4904pt x 422.4904pt>
+>] <KSLC_SkewT.pdf, id=3913, 422.4904pt x 422.4904pt>
 File: KSLC_SkewT.pdf Graphic file (type pdf)
  <use KSLC_SkewT.pdf>
 [44 <./KSLC_SkewT.pdf
 
 pdfTeX warning: pdflatex (file ./KSLC_SkewT.pdf): PDF inclusion: Page Group det
 ected which pdfTeX can't handle. Ignoring it.
->] <sound_comp.pdf, id=4009, 531.9875pt x 902.37125pt>
+>] <sound_comp.pdf, id=4010, 531.9875pt x 902.37125pt>
 File: sound_comp.pdf Graphic file (type pdf)
  <use sound_comp.pdf>
 [45 <./sound_comp.pdf
 
 pdfTeX warning: pdflatex (file ./sound_comp.pdf): PDF inclusion: Page Group det
 ected which pdfTeX can't handle. Ignoring it.
->] <vertical_vel_crop.jpg, id=4035, 473.77pt x 466.74374pt>
+>] <vertical_vel_crop.jpg, id=4036, 473.77pt x 466.74374pt>
 File: vertical_vel_crop.jpg Graphic file (type jpg)
 
 <use vertical_vel_crop.jpg> [46 <./vertical_vel_crop.jpg>]
-<WRF700.pdf, id=4039, 422.4904pt x 422.4904pt>
+<WRF700.pdf, id=4040, 422.4904pt x 422.4904pt>
 File: WRF700.pdf Graphic file (type pdf)
  <use WRF700.pdf> [47 <./WRF700.pdf
 
 pdfTeX warning: pdflatex (file ./WRF700.pdf): PDF inclusion: Page Group detecte
 d which pdfTeX can't handle. Ignoring it.
->] <verification.pdf, id=6525, 422.4904pt x 297.24649pt>
+>] <verification.pdf, id=6526, 422.4904pt x 297.24649pt>
 File: verification.pdf Graphic file (type pdf)
 
 <use verification.pdf> [48 <./verification.pdf
 
 pdfTeX warning: pdflatex (file ./verification.pdf): PDF inclusion: Page Group d
 etected which pdfTeX can't handle. Ignoring it.
->] <GloversLane_ts.pdf, id=11145, 422.4904pt x 333.3815pt>
+>] <GloversLane_ts.pdf, id=11146, 422.4904pt x 333.3815pt>
 File: GloversLane_ts.pdf Graphic file (type pdf)
 
 <use GloversLane_ts.pdf> [49 <./GloversLane_ts.pdf
 
 pdfTeX warning: pdflatex (file ./GloversLane_ts.pdf): PDF inclusion: Page Group
  detected which pdfTeX can't handle. Ignoring it.
->] <yes_xs_westeast_parawind.pdf, id=11202, 422.4904pt x 449.95302pt>
+>] <yes_xs_westeast_parawind.pdf, id=11203, 422.4904pt x 449.95302pt>
 File: yes_xs_westeast_parawind.pdf Graphic file (type pdf)
 
 <use yes_xs_westeast_parawind.pdf> [50 <./yes_xs_westeast_parawind.pdf
 
 pdfTeX warning: pdflatex (file ./yes_xs_westeast_parawind.pdf): PDF inclusion: 
 Page Group detected which pdfTeX can't handle. Ignoring it.
->] <yes_xs_northsouth_perpwind.pdf, id=11901, 422.4904pt x 449.95302pt>
+>] <yes_xs_northsouth_perpwind.pdf, id=11902, 422.4904pt x 449.95302pt>
 File: yes_xs_northsouth_perpwind.pdf Graphic file (type pdf)
 
 <use yes_xs_northsouth_perpwind.pdf> [51 <./yes_xs_northsouth_perpwind.pdf
 
 pdfTeX warning: pdflatex (file ./yes_xs_northsouth_perpwind.pdf): PDF inclusion
 : Page Group detected which pdfTeX can't handle. Ignoring it.
->] <eastdiff.pdf, id=12384, 422.4904pt x 494.7604pt>
+>] <eastdiff.pdf, id=12385, 422.4904pt x 494.7604pt>
 File: eastdiff.pdf Graphic file (type pdf)
  <use eastdiff.pdf>
 [52 <./eastdiff.pdf
 
 pdfTeX warning: pdflatex (file ./eastdiff.pdf): PDF inclusion: Page Group detec
 ted which pdfTeX can't handle. Ignoring it.
->] <no_xs_westeast_parawind.pdf, id=15360, 422.4904pt x 449.95302pt>
+>] <no_xs_westeast_parawind.pdf, id=15361, 422.4904pt x 449.95302pt>
 File: no_xs_westeast_parawind.pdf Graphic file (type pdf)
 
 <use no_xs_westeast_parawind.pdf> [53 <./no_xs_westeast_parawind.pdf
 
 pdfTeX warning: pdflatex (file ./no_xs_westeast_parawind.pdf): PDF inclusion: P
 age Group detected which pdfTeX can't handle. Ignoring it.
->] <no_xs_northsouth_perpwind.pdf, id=16021, 422.4904pt x 449.95302pt>
+>] <no_xs_northsouth_perpwind.pdf, id=16022, 422.4904pt x 449.95302pt>
 File: no_xs_northsouth_perpwind.pdf Graphic file (type pdf)
 
 <use no_xs_northsouth_perpwind.pdf> [54 <./no_xs_northsouth_perpwind.pdf
@@ -551,11 +557,11 @@ pdfTeX warning: pdflatex (file ./no_xs_northsouth_perpwind.pdf): PDF inclusion:
 Here is how much of TeX's memory you used:
  3844 strings out of 256216
  51226 string characters out of 1917072
- 113572 words of memory out of 1500000
+ 112572 words of memory out of 1500000
  7004 multiletter control sequences out of 10000+200000
  21790 words of font info for 79 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 44i,14n,45p,2168b,307s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 44i,14n,45p,2213b,307s stack positions out of 5000i,500n,6000p,200000b,15000s
 </usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb><
 /usr/share/texmf/fonts/type1/bluesky/cm/cmcsc10.pfb></usr/share/texmf/fonts/typ
 e1/bluesky/cm/cmmi12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></u
@@ -565,9 +571,9 @@ e/texmf/fonts/type1/bluesky/cm/cmss8.pfb></usr/share/texmf/fonts/type1/bluesky/
 cm/cmsy10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/te
 xmf/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/c
 mti10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti12.pfb>
-Output written on LAWSON_HOREL.pdf (55 pages, 16050904 bytes).
+Output written on LAWSON_HOREL.pdf (55 pages, 16051144 bytes).
 PDF statistics:
- 16521 PDF objects out of 18468 (max. 8388607)
+ 16522 PDF objects out of 18468 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

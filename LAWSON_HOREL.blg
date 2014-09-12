@@ -9,15 +9,15 @@ Warning--empty publisher in Welch2011
 Warning--empty pages in Welch2011
 You've used 36 entries,
             2749 wiz_defined-function locations,
-            1241 strings with 15068 characters,
-and the built_in function-call counts, 20731 in all, are:
-= -- 1846
+            1243 strings with 15072 characters,
+and the built_in function-call counts, 20750 in all, are:
+= -- 1851
 > -- 1347
 < -- 25
 + -- 448
 - -- 405
-* -- 2001
-:= -- 3558
+* -- 2005
+:= -- 3560
 add.period$ -- 72
 call.type$ -- 36
 change.case$ -- 309
@@ -26,26 +26,26 @@ cite$ -- 40
 duplicate$ -- 828
 empty$ -- 1409
 format.name$ -- 533
-if$ -- 4112
+if$ -- 4115
 int.to.chr$ -- 2
 int.to.str$ -- 1
 missing$ -- 36
 newline$ -- 116
 num.names$ -- 148
-pop$ -- 333
+pop$ -- 330
 preamble$ -- 1
 purify$ -- 277
 quote$ -- 0
-skip$ -- 531
+skip$ -- 532
 stack$ -- 0
-substring$ -- 1228
-swap$ -- 156
+substring$ -- 1232
+swap$ -- 157
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 318
 warning$ -- 4
-while$ -- 171
+while$ -- 172
 width$ -- 0
-write$ -- 405
+write$ -- 406
 (There were 4 warnings)
